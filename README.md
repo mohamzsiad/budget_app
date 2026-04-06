@@ -1,0 +1,1 @@
+**React Native** mobile app (iOS + Android) called **"SpendSmart"** that allows users to track personal expenses, view spending trends through charts, manage budgets, and get AI-powered monthly financial planning advice — all with data stored **locally on the device** (no backend required).
